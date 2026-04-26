@@ -15,7 +15,8 @@ This project investigates whether quantum-inspired algorithms like Grover’s Al
 * Python
 * Qiskit (quantum simulation)
 * Google Colab
-* NumPy / scientific computing tools
+* NumPy
+* Matplotlib
 
 ## Key Concepts
 
